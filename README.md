@@ -18,7 +18,7 @@ Loading the dataset
 
 ### STEP 2:
 
-Split the dataset into training and testing
+Split the dataset into training and testing.
 
 ### STEP 3:
 
